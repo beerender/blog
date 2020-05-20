@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  capacity: 1
+  status: MyString
+  start_time: MyString
+  end_time: 2020-05-18 17:39:00
+  creator_id: 1
+
+two:
+  name: MyString
+  capacity: 1
+  status: MyString
+  start_time: MyString
+  end_time: 2020-05-18 17:39:00
+  creator_id: 1

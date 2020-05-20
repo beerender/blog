@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meeting_room: 1
+  date: 2020-05-15
+  start_time: 2020-05-15 19:15:48
+  end_time: 2020-05-15 19:15:48
+  agenda: MyString
+
+two:
+  meeting_room: 1
+  date: 2020-05-15
+  start_time: 2020-05-15 19:15:48
+  end_time: 2020-05-15 19:15:48
+  agenda: MyString
